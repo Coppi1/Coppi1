@@ -10,8 +10,9 @@
   <a href="https://www.linkedin.com/in/eduardo-coppi-79b416234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/eduardo_coppi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:educoppi00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br>
 </div>
-<br>
+
 ###
 ![line_divisor](https://github.com/Coppi1/Coppi1/assets/113216854/0a432260-e221-46dc-9579-6d604b4a54a1)
 ###
