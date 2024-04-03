@@ -13,7 +13,7 @@
 </div>
 
 ###
-![Design_sem_nome-removebg-preview](https://github.com/Coppi1/Coppi1/assets/113216854/b502d6ac-ec12-4a39-bd82-2731106dbd6c)
+![line_divisor](https://github.com/Coppi1/Coppi1/assets/113216854/0a432260-e221-46dc-9579-6d604b4a54a1)
 ###
 
 <div align="center">
