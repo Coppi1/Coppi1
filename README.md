@@ -12,9 +12,12 @@
   <a href = "mailto:educoppi00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+
 ###
-![line_divisor](https://github.com/Coppi1/Coppi1/assets/113216854/0a432260-e221-46dc-9579-6d604b4a54a1)
+![line_divisor](https://github.com/Coppi1/Coppi1/assets/113216854/22291e6e-c166-4cd9-9904-2338b7239e2d)
 ###
+
+
 <div align="center">
   <a href="https://github.com/coppi1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=coppi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coppi1&layout=compact&langs_count=7&theme=dracula"/>
