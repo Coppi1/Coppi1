@@ -6,7 +6,7 @@
 #### 👩🏻‍💻 Estudante da UNIFIO Ourinhos, cursando o 5º semestre de Engenharia de Software.
 ####
 
-<div align="left" style="padding-bottom: 20px;">
+<div align="left">
   <a href="https://www.linkedin.com/in/eduardo-coppi-79b416234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/eduardo_coppi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:educoppi00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,7 +15,6 @@
 ###
 ![line_divisor](https://github.com/Coppi1/Coppi1/assets/113216854/0a432260-e221-46dc-9579-6d604b4a54a1)
 ###
-
 <div align="center">
   <a href="https://github.com/coppi1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=coppi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coppi1&layout=compact&langs_count=7&theme=dracula"/>
