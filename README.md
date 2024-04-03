@@ -13,7 +13,7 @@
 </div>
 
 ###
-![Design sem nome](https://github.com/Coppi1/Coppi1/assets/113216854/c519d6d5-2e21-40bc-bd94-0b7293f56451)
+![Design_sem_nome-removebg-preview](https://github.com/Coppi1/Coppi1/assets/113216854/b502d6ac-ec12-4a39-bd82-2731106dbd6c)
 ###
 
 <div align="center">
