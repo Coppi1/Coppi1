@@ -3,7 +3,7 @@
 
 
 #### 👤 Eduardo Coppi, 23 anos, Ribeirão Claro - PR.
-#### 👩🏻‍💻 Estudante da UNIFIO Ourinhos, cursando o 6º semestre de Engenharia de Software.
+#### 👩🏻‍💻 Estudante da UNIFIO Ourinhos, cursando o 7º semestre de Engenharia de Software.
 ####
 
 <div align="left">
