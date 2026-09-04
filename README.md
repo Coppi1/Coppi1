@@ -1,27 +1,8 @@
-# Olá, eu sou Eduardo Coppi! 👋
+# Eduardo Coppi
 
-### 👨‍💻 Analista de Sistemas | Suporte Técnico N3 | Desenvolvimento ERP
+### Analista de Sistemas | Suporte Técnico N3 | ERP, APIs e Bancos de Dados
 
-Sou bacharel em **Engenharia de Software** e atualmente trabalho com sustentação e suporte técnico ao ERP FlexSmart.
-
-Tenho experiência com desenvolvimento de sistemas, resolução de incidentes, automação de processos, integração de APIs, relatórios e otimização de bancos de dados. Minha atuação envolve principalmente **Java, SQL, TypeScript, JavaScript, PostgreSQL, Oracle e JasperReports**.
-
-Também possuo experiência com os ERPs **FlexSmart e Sankhya**, além de conhecimento de processos financeiros, fiscais, contábeis, comerciais e logísticos.
-
-📍 Ribeirão Claro — Paraná, Brasil
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-coppi-79b416234/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:educoppi00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
----
-
-### 🛠️ Tecnologias e ferramentas
+🛠️ Tecnologias e ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -33,4 +14,13 @@ Também possuo experiência com os ERPs **FlexSmart e Sankhya**, além de conhec
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/eduardo-coppi-79b416234/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:educoppi00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
