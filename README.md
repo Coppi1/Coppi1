@@ -34,14 +34,3 @@ Também possuo experiência com os ERPs **FlexSmart e Sankhya**, além de conhec
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Coppi1">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Coppi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coppi1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais utilizadas">
-  </a>
-</div>
