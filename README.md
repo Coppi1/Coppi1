@@ -1,40 +1,47 @@
-### Hi there 👋
+# Olá, eu sou Eduardo Coppi! 👋
 
+### 👨‍💻 Analista de Sistemas | Suporte Técnico N3 | Desenvolvimento ERP
 
+Sou bacharel em **Engenharia de Software** e atualmente trabalho com sustentação e suporte técnico ao ERP FlexSmart.
 
-#### 👤 Eduardo Coppi, 23 anos, Ribeirão Claro - PR.
-#### 👩🏻‍💻 Estudante da UNIFIO Ourinhos, cursando o 7º semestre de Engenharia de Software.
-####
+Tenho experiência com desenvolvimento de sistemas, resolução de incidentes, automação de processos, integração de APIs, relatórios e otimização de bancos de dados. Minha atuação envolve principalmente **Java, SQL, TypeScript, JavaScript, PostgreSQL, Oracle e JasperReports**.
+
+Também possuo experiência com os ERPs **FlexSmart e Sankhya**, além de conhecimento de processos financeiros, fiscais, contábeis, comerciais e logísticos.
+
+📍 Ribeirão Claro — Paraná, Brasil
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-coppi-79b416234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.instagram.com/eduardo_coppi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:educoppi00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-coppi-79b416234/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:educoppi00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
+---
 
-###
-![line_divisor](https://github.com/Coppi1/Coppi1/assets/113216854/22291e6e-c166-4cd9-9904-2338b7239e2d)
-###
+### 🛠️ Tecnologias e ferramentas
 
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/coppi1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=coppi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coppi1&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Coppi1">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Coppi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coppi1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais utilizadas">
+  </a>
 </div>
-
-
-<!--
-**Coppi1/Coppi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
